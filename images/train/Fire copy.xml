@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New</folder>
+	<filename>Fire copy.jpg</filename>
+	<path>/Users/karthikvigneshwarcuddalorebalakumar/Desktop/Fire_pics/New/Fire copy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>401</ymin>
+			<xmax>75</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>

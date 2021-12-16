@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_demo</folder>
+	<filename>_7_2517635.jpg</filename>
+	<path>/Users/karthikvigneshwarcuddalorebalakumar/opt/anaconda3/envs/tensorflow/training_demo/_7_2517635.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>184</ymin>
+			<xmax>272</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>
